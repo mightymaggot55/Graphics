@@ -1,0 +1,14 @@
+﻿  Bitmap.cpp
+  Camera.cpp
+  Framework.cpp
+  Matrix.cpp
+  MD2Loader.cpp
+  Model.cpp
+  Polygon3D.cpp
+  Rasteriser.cpp
+  Vector3D.cpp
+  Vertex.cpp
+  Generating code
+  All 408 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Rasteriser.vcxproj -> C:\Users\Michael Work\Desktop\Graphics I\Exercises\Polygon transformations\x64\Release\Rasteriser.exe
